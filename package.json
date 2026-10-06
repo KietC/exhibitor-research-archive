@@ -1,0 +1,9 @@
+{
+  "name": "exhibitor-research-archive",
+  "version": "1.0.0",
+  "description": "Evidence-first exhibitor portal archive and company research tools",
+  "license": "MIT",
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": { "test": "node tests/regression.mjs && node tests/api_archive.mjs && node tests/list_diff.mjs" }
+}

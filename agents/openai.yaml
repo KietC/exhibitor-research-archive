@@ -1,0 +1,7 @@
+interface:
+  display_name: "Exhibitor Research Archive / 展商研究归档"
+  short_description: "Evidence-first exhibitor research / 证据优先的展商研究"
+  default_prompt: "Use $exhibitor-research-archive to archive this portal and prepare a verified workbook. / 使用此技能归档网站并准备有证据的工作簿。"
+
+policy:
+  allow_implicit_invocation: true

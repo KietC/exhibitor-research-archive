@@ -1,0 +1,37 @@
+# Credentials and browser state
+# 凭据与浏览器状态
+**/auth.json
+**/*cookie*
+**/Cookies
+**/Login Data
+**/*.har
+**/profile/
+**/browser-data/
+**/.env
+**/.env.*
+
+# Project data and generated evidence
+# 业务数据与生成证据
+data/
+artifacts/
+evidence/
+output/
+work/
+*.xlsx
+*.xls
+*.xlsm
+*.zip
+*.7z
+*.jsonl
+*.ndjson
+
+# Runtime files
+# 运行时文件
+.venv/
+venv/
+dist/
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

@@ -1,0 +1,9 @@
+{
+  "ReturnObj": {
+    "ExhibitorList": [
+      { "Id": 101, "Name": "Demo Company Alpha", "CatCountryDesc": "Exampleland", "BoothNames": ["DEMO-A"], "ShowOnDrawingSeq": [1] },
+      { "Id": 102, "Name": "Demo Company Beta", "CatCountryDesc": "Exampleland", "BoothNames": ["DEMO-B"], "ShowOnDrawingSeq": [1] },
+      { "Id": 103, "Name": "Demo Hidden Object", "ShowOnDrawingSeq": null }
+    ]
+  }
+}
