@@ -1,6 +1,6 @@
 {
   "schema": "portable-source-manifest-v1",
-  "generated_at_utc": "2026-10-06T01:52:57.287986+00:00",
+  "generated_at_utc": "2026-10-06T03:45:05.312954+00:00",
   "root_name": "exhibitor-research-archive",
   "file_count": 47,
   "rejected_credential_files": [],
@@ -109,8 +109,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 10301,
-      "sha256": "ed39309a50f45fb9c8716fb6b3f634b80be861f260fdcbbd7c50e46f5b7dd8c9"
+      "bytes": 16560,
+      "sha256": "cfe85547c69db6eac0bfe892a46436350766739da7469bf734976b79478099fb"
     },
     {
       "path": "references/evidence-schema.md",
